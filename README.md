@@ -1,4 +1,9 @@
-### Hi there 👋
+# ✨ Hello! ✨
+### My name is ***Wendy David Bujalski (she/her)*** - welcome to my Github page.
+### I'm currently working on completing the [Springboard Software Engineering Career Track](https://www.springboard.com/courses/software-engineering-career-track/).
+### I am currently looking for a software engineering job - [here's my Linkedin](https://www.linkedin.com/in/wendybujalski/).
+### In addition to writing code, I enjoy 🍳 cooking, 🚴‍♀️ riding my bike, and 🎲 games.
+### You can reach me at [me@wendybujal.ski](mailto:me@wendybujal.ski).
 
 <!--
 **wendybujalski/wendybujalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
